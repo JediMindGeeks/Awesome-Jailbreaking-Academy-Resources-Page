@@ -1,4 +1,4 @@
-# ![Awesome Badge](https://awesome.re/badge-flat.svg)Awesome Jailbreaking Academy Resources
+# ![Awesome Badge](https://awesome.re/badge-flat.svg) Awesome Jailbreaking Academy Resources
 
 **A curated list of high-quality resources for learning and practicing jailbreaking—the art of circumventing or extending the limits of AI systems, especially large language models.** Each link in this list should provide clear value and context for learners and practitioners.
 
@@ -19,7 +19,6 @@ The goal of this repository is twofold: to provide a rigorous knowledge base for
 
 - [OpenAI Usage Policies](https://openai.com/policies/usage-policies) - Official guidance describing acceptable and disallowed uses of deployed models.
 - [Model Cards for Model Reporting](https://modelcards.withgoogle.com/about) - Guidance for documenting model capabilities, limitations, and evaluation practices.
-- [Robustness Gym Tutorial (GitHub)](https://github.com/airbnb/robustness-gym) - Overview and examples for using a framework to evaluate model robustness across perturbations.
 
 ## Tools and Libraries
 
@@ -31,7 +30,6 @@ The goal of this repository is twofold: to provide a rigorous knowledge base for
 
 - [AI Alignment Forum](https://www.alignmentforum.org) - Research discussions focused on long-term AI safety, evaluation, and robustness.
 - [LessWrong](https://www.lesswrong.com) - Community posts and essays covering ML risks, model behavior, and safety discussions.
-- [ML Safety Slack / Discord (community links vary)](https://www.lesswrong.com) - Entry points to community discussions on model safety (see community pages for invite links).
 
 ## Articles and Publications
 
