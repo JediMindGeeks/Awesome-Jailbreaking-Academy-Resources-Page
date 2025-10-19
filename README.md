@@ -13,7 +13,6 @@ The goal of this repository is twofold: to provide a rigorous knowledge base for
 - [Articles and Publications](#articles-and-publications)
 - [Videos and Presentations](#videos-and-presentations)
 - [Open‑Source Resources](#opensource-resources)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Guides and Tutorials
@@ -48,13 +47,3 @@ The goal of this repository is twofold: to provide a rigorous knowledge base for
 - [GLUE / SuperGLUE Benchmarks](https://gluebenchmark.com) - Standard language understanding benchmarks for baseline evaluation.
 - [Papers with Code — Adversarial Robustness](https://paperswithcode.com/task/adversarial-robustness) - Curated papers, implementations, and benchmarks related to robustness.
 - [Robustness Benchmarking Repositories (various)](https://paperswithcode.com) - Collections of tasks and code to reproduce robustness results.
-
-## Contributing
-
-Contributions are welcome. Please follow these guidelines:
-
-1. Fork the repository and create a branch for your change.
-2. Add resources using the format: `- [Title](URL) — short one-line description.` Put each resource in the appropriate section.
-3. Open a Pull Request describing why the resource belongs here and reference any relevant issues.
-
-Please follow the repository's Code of Conduct and prefer reputable, publicly accessible sources.
