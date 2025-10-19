@@ -1,6 +1,10 @@
 # Awesome Jailbreaking Academy Resources
 
-**A curated collection of resources about model behavior, robustness, and safe evaluation practices.** Entries are formatted as list items: `- [Title](URL) — short one-line description.`
+![Awesome Badge](https://awesome.re/badge-flat.svg)
+
+**A curated list of high-quality resources for learning and practicing jailbreaking—the art of circumventing or extending the limits of AI systems, especially large language models.** Each link in this list should provide clear value and context for learners and practitioners.
+
+The goal of this repository is twofold: to provide a rigorous knowledge base for the JediMindGeeks community and to serve as a collaborative platform to enrich that base over time. The content is short, curated, and should point to high-quality resources.
 
 ## Table of Contents
 
@@ -60,4 +64,4 @@ Please follow the repository's Code of Conduct and prefer reputable, publicly ac
 
 ## License
 
-This project is released under the [CC0 1.0](LICENSE) license.
+This project is released under the [CC0 1.0](LICENSE) license, meaning you can copy, modify, and redistribute the resources without restriction. However, out of respect for the community, mention the original source when appropriate.
