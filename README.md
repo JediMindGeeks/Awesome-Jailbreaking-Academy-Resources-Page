@@ -5,20 +5,19 @@
 
 The goal of this repository is twofold: to provide a rigorous knowledge base for the JediMindGeeks community and to serve as a collaborative platform to enrich that base over time. The content is short, curated, and should point to high-quality resources.
 
-<!--lint disable awesome-list-item-->
-
 ## Table of Contents
-
+<!--lint ignore awesome-list-item-->
 - [Guides and Tutorials](#guides-and-tutorials)
+<!--lint ignore awesome-list-item-->
 - [Tools and Libraries](#tools-and-libraries)
+<!--lint ignore awesome-list-item-->
 - [Communities and Forums](#communities-and-forums)
+<!--lint ignore awesome-list-item-->
 - [Articles and Publications](#articles-and-publications)
 - [Videos and Presentations](#videos-and-presentations)
 - [Open‑Source Resources](#opensource-resources)
 - [Contributing](#contributing)
 - [License](#license)
-
-<!--lint enable awesome-list-item-->
 
 ## Guides and Tutorials
 
