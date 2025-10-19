@@ -58,7 +58,3 @@ Contributions are welcome. Please follow these guidelines:
 3. Open a Pull Request describing why the resource belongs here and reference any relevant issues.
 
 Please follow the repository's Code of Conduct and prefer reputable, publicly accessible sources.
-
-## License
-
-This project is released under the [CC0 1.0](LICENSE) license, meaning you can copy, modify, and redistribute the resources without restriction. However, out of respect for the community, mention the original source when appropriate.
