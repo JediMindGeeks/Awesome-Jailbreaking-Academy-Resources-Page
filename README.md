@@ -3,7 +3,7 @@
 
 **A curated list of high-quality resources for learning and practicing jailbreaking—the art of circumventing or extending the limits of AI systems, especially large language models.** Each link in this list should provide clear value and context for learners and practitioners.
 
-The goal of this repository is twofold: to provide a rigorous knowledge base for the JediMindGeeks community and to serve as a collaborative platform to enrich that base over time. The content is short, curated, and should point to high-quality resources.
+The goal of this repository is twofold: to provide a rigorous knowledge base for the community and to serve as a collaborative platform to enrich that base over time. The content is short, curated, and should point to high-quality resources.
 
 ## Contents
 
