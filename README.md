@@ -13,7 +13,6 @@ The goal of this repository is twofold: to provide a rigorous knowledge base for
 - [Articles and Publications](#articles-and-publications)
 - [Videos and Presentations](#videos-and-presentations)
 - [Open‑Source Resources](#opensource-resources)
-- [License](#license)
 
 ## Guides and Tutorials
 
