@@ -19,49 +19,48 @@ The goal of this repository is twofold: to provide a rigorous knowledge base for
 
 ## Guides and Tutorials
 
-Practical resources to start or deepen your understanding of jailbreaking. Each entry should describe the target audience (beginner, intermediate, expert) and the pedagogical approach (step-by-step, conceptual, or hands-on).
-
-- [Guide Title](https://example.com) — Clear, concise description. Explain the technologies or concepts covered and why this source is interesting.
+- [OpenAI Usage Policies](https://openai.com/policies/usage-policies) — Official guidance describing acceptable and disallowed uses of deployed models.
+- [Model Cards for Model Reporting](https://modelcards.withgoogle.com/about) — Guidance for documenting model capabilities, limitations, and evaluation practices.
+- [Robustness Gym Tutorial (GitHub)](https://github.com/airbnb/robustness-gym) — Overview and examples for using a framework to evaluate model robustness across perturbations.
 
 ## Tools and Libraries
 
-Software tools, libraries, development environments, or frameworks that facilitate the development of jailbreaking techniques. Feel free to specify installation requirements and dependencies.
-
-- [Tool Name](https://example.com) — concise description; mention the main use and a link to the official documentation.
+- [Robustness Gym (Airbnb)](https://github.com/airbnb/robustness-gym) — Toolkit for measuring and comparing model robustness across datasets and transformations.
+- [TextAttack](https://github.com/QData/TextAttack) — Framework for adversarial attacks, data augmentation, and model evaluation for NLP.
+- [Hugging Face Datasets](https://huggingface.co/datasets) — Collection of datasets useful for evaluation, stress-testing, and robustness experiments.
 
 ## Communities and Forums
 
-Places where jailbreaking enthusiasts exchange ideas, share discoveries, ask questions, and collaborate. Groups can include forums, Discord servers, mailing lists, or specialized subcommunities.
-
-- [Community Name](https://example.com) — description of the community (language, topics) and link to join.
+- [AI Alignment Forum](https://www.alignmentforum.org) — Research discussions focused on long-term AI safety, evaluation, and robustness.
+- [LessWrong](https://www.lesswrong.com) — Community posts and essays covering ML risks, model behavior, and safety discussions.
+- [ML Safety Slack / Discord (community links vary)](https://www.lesswrong.com) — Entry points to community discussions on model safety (see community pages for invite links).
 
 ## Articles and Publications
 
-Academic articles, blog posts, or detailed reports that shed theoretical or methodological light on jailbreaking. Prioritize official or academic sources.
-
-- [Article Title](https://example.com) — author(s), short description, and link.
+- [Adversarial Examples in NLP: A Survey (arXiv)](https://arxiv.org/abs/1812.05271) — Comprehensive survey of attacks and defenses in NLP.
+- [A Survey on Robustness Evaluation for Natural Language Processing (arXiv)](https://arxiv.org/abs/2009.07012) — Systematic review of robustness evaluation techniques for NLP models.
+- [On Evaluating Adversarial Robustness (ICLR)](https://arxiv.org/abs/1902.06705) — Discussion of pitfalls and best practices in robustness evaluation.
 
 ## Videos and Presentations
 
-Conferences, webinars, and video tutorials. Indicate whether the content is in English or French, the length, and the required level.
-
-- [Video Title](https://example.com) — concise description, channel/presenter, and link.
+- [Tutorials on Model Robustness — Conference Talks (YouTube search)](https://www.youtube.com/results?search_query=model+robustness+tutorial) — Conference tutorials and talks covering practical robustness evaluation methods.
+- [Adversarial NLP Workshop Talks (various conferences)](https://www.youtube.com/results?search_query=adversarial+nlp+workshop) — Recorded presentations on attack/defense techniques and evaluations.
 
 ## Open‑Source Resources
 
-Open-source projects related to jailbreaking (scripts, libraries, datasets, test environments, etc.).
-
-- [Project Name](https://example.com) — short description, programming language, and link to the repository.
+- [GLUE / SuperGLUE Benchmarks](https://gluebenchmark.com) — Standard language understanding benchmarks for baseline evaluation.
+- [Papers with Code — Adversarial Robustness](https://paperswithcode.com/task/adversarial-robustness) — Curated papers, implementations, and benchmarks related to robustness.
+- [Robustness Benchmarking Repositories (various)](https://paperswithcode.com) — Collections of tasks and code to reproduce robustness results.
 
 ## Contributing
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file to understand how to propose an improvement, report a bug, or suggest a new resource. In summary:
+Contributions are welcome. Please follow these guidelines:
 
-1. **Fork** this repository and create a branch for your contribution.
-2. **Add** your resource in the appropriate section following the Awesome manifesto ethos: each entry must be justified and well described.
-3. **Open a Pull Request** detailing your changes. A maintainer will review them.
+1. Fork the repository and create a branch for your change.
+2. Add resources using the format: `- [Title](URL) — short one-line description.` Put each resource in the appropriate section.
+3. Open a Pull Request describing why the resource belongs here and reference any relevant issues.
 
-Please also respect our [Code of Conduct](CODE_OF_CONDUCT.md) and maintain a spirit of kindness and scientific rigor.
+Please follow the repository's Code of Conduct and prefer reputable, publicly accessible sources.
 
 ## License
 
