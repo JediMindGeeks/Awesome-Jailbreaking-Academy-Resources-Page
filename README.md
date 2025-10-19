@@ -5,8 +5,10 @@
 
 The goal of this repository is twofold: to provide a rigorous knowledge base for the JediMindGeeks community and to serve as a collaborative platform to enrich that base over time. The content is short, curated, and should point to high-quality resources.
 
-## Table of Contents
 <!--lint disable awesome-list-item-->
+
+## Table of Contents
+
 - [Guides and Tutorials](#guides-and-tutorials)
 - [Tools and Libraries](#tools-and-libraries)
 - [Communities and Forums](#communities-and-forums)
@@ -15,7 +17,9 @@ The goal of this repository is twofold: to provide a rigorous knowledge base for
 - [Open‑Source Resources](#opensource-resources)
 - [Contributing](#contributing)
 - [License](#license)
+
 <!--lint enable awesome-list-item-->
+
 ## Guides and Tutorials
 
 - [OpenAI Usage Policies](https://openai.com/policies/usage-policies) - Official guidance describing acceptable and disallowed uses of deployed models.
