@@ -12,14 +12,12 @@ The goal of this repository is twofold: to provide a rigorous knowledge base for
 
 ## Contents
 
-- [Awesome Jailbreaking Academy Resources](#awesome-jailbreaking-academy-resources)
-  - [Contents](#contents)
-  - [Guides and Tutorials](#guides-and-tutorials)
-  - [Tools and Libraries](#tools-and-libraries)
-  - [Communities and Forums](#communities-and-forums)
-  - [Articles and Publications](#articles-and-publications)
-  - [Videos and Presentations](#videos-and-presentations)
-  - [Open‑Source Resources](#opensource-resources)
+- [Guides and Tutorials](#guides-and-tutorials)
+- [Tools and Libraries](#tools-and-libraries)
+- [Communities and Forums](#communities-and-forums)
+- [Articles and Publications](#articles-and-publications)
+- [Videos and Presentations](#videos-and-presentations)
+- [Open‑Source Resources](#opensource-resources)
 
 ## Guides and Tutorials
 
