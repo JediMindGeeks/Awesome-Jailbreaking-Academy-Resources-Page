@@ -1,4 +1,5 @@
-# ![Awesome Badge](https://awesome.re/badge-flat.svg) Awesome Jailbreaking Academy Resources
+![Awesome Badge](https://awesome.re/badge-flat.svg)
+# Awesome Jailbreaking Academy Resources
 
 **A curated list of high-quality resources for learning and practicing jailbreaking—the art of circumventing or extending the limits of AI systems, especially large language models.** Each link in this list should provide clear value and context for learners and practitioners.
 
