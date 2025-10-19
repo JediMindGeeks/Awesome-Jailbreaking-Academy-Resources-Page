@@ -12,7 +12,7 @@ The goal of this repository is twofold: to provide a rigorous knowledge base for
 - [Communities and Forums](#communities-and-forums)
 - [Articles and Publications](#articles-and-publications)
 - [Videos and Presentations](#videos-and-presentations)
-- [Open‑Source Resources](#opensource-resources)
+ - [Open-Source Resources](#open-source-resources)
 
 ## Guides and Tutorials
 

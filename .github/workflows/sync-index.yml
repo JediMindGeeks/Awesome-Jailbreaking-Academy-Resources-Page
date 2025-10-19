@@ -1,0 +1,50 @@
+name: Sync index.md from README.md
+
+on:
+  push:
+    branches:
+      - "**"
+  workflow_dispatch: {}
+
+jobs:
+  sync:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Generate index.md from README.md
+        id: gen
+        shell: bash
+        run: |
+          set -euo pipefail
+          tmp="index.md.tmp"
+          {
+            echo '---'
+            echo 'layout: default'
+            echo 'title: Awesome Jailbreaking Academy Resources'
+            echo '---'
+            echo
+            cat README.md
+          } > "$tmp"
+
+          if [ ! -f index.md ] || ! diff -q "$tmp" index.md > /dev/null; then
+            mv "$tmp" index.md
+            echo "updated=true" >> "$GITHUB_OUTPUT"
+          else
+            rm -f "$tmp"
+            echo "updated=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push if changed
+        if: steps.gen.outputs.updated == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.md
+          git commit -m "site: sync index.md from README.md [skip ci]"
+          git push
+
