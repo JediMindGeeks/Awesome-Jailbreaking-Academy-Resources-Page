@@ -6,7 +6,7 @@ title: Awesome Jailbreaking Academy Resources
 ![Awesome Badge](https://awesome.re/badge-flat.svg)
 # Awesome Jailbreaking Academy Resources
 
-**A curated list of high-quality resources for learning and practicing jailbreaking-the art of circumventing or extending the limits of AI systems, especially large language models.** Each link in this list should provide clear value and context for learners and practitioners.
+**A curated list of high-quality resources for learning and practicing jailbreaking—the art of circumventing or extending the limits of AI systems, especially large language models.** Each link in this list should provide clear value and context for learners and practitioners.
 
 The goal of this repository is twofold: to provide a rigorous knowledge base for the community and to serve as a collaborative platform to enrich that base over time. The content is short, curated, and should point to high-quality resources.
 
@@ -17,7 +17,7 @@ The goal of this repository is twofold: to provide a rigorous knowledge base for
 - [Communities and Forums](#communities-and-forums)
 - [Articles and Publications](#articles-and-publications)
 - [Videos and Presentations](#videos-and-presentations)
-- [Open-Source Resources](#open-source-resources)
+ - [Open-Source Resources](#open-source-resources)
 
 ## Guides and Tutorials
 
@@ -43,12 +43,11 @@ The goal of this repository is twofold: to provide a rigorous knowledge base for
 
 ## Videos and Presentations
 
-- [Tutorials on Model Robustness - Conference Talks (YouTube search)](https://www.youtube.com/results?search_query=model+robustness+tutorial) - Conference tutorials and talks covering practical robustness evaluation methods.
+- [Tutorials on Model Robustness — Conference Talks (YouTube search)](https://www.youtube.com/results?search_query=model+robustness+tutorial) - Conference tutorials and talks covering practical robustness evaluation methods.
 - [Adversarial NLP Workshop Talks (various conferences)](https://www.youtube.com/results?search_query=adversarial+nlp+workshop) - Recorded presentations on attack/defense techniques and evaluations.
 
-## Open-Source Resources
+## Open‑Source Resources
 
 - [GLUE / SuperGLUE Benchmarks](https://gluebenchmark.com) - Standard language understanding benchmarks for baseline evaluation.
-- [Papers with Code - Adversarial Robustness](https://paperswithcode.com/task/adversarial-robustness) - Curated papers, implementations, and benchmarks related to robustness.
+- [Papers with Code — Adversarial Robustness](https://paperswithcode.com/task/adversarial-robustness) - Curated papers, implementations, and benchmarks related to robustness.
 - [Robustness Benchmarking Repositories (various)](https://paperswithcode.com) - Collections of tasks and code to reproduce robustness results.
-
