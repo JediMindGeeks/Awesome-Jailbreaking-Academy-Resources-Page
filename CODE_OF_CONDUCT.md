@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This project adopts a code of conduct inspired by the **Contributor Covenant**. We are committed to providing an open and welcoming experience for everyone, regardless of age, body size, disability, ethnicity, gender identity or expression, level of experience, education, socio‑economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+This project adopts a code of conduct inspired by the **[Contributor Covenant](https://www.contributor-covenant.org/)**. We are committed to providing an open and welcoming experience for everyone, regardless of age, body size, disability, ethnicity, gender identity or expression, level of experience, education, socio‑economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Pledge
 
